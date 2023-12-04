@@ -8,7 +8,6 @@ public class AnankeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AnankeApplication.class, args);
-
 	}
 
 }
